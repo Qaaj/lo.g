@@ -13,10 +13,7 @@ var config = {
       filename: 'log.js'
     },
     plugins: [
-      new Webpack.optimize.UglifyJsPlugin({
-        compress: {
-           warnings: false
-      }})
+      
     ]
 };
 
