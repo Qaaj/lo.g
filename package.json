@@ -1,0 +1,26 @@
+{
+  "name": "lo.g",
+  "version": "1.0.0",
+  "description": "Logger class for pretty logging",
+  "main": "app/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qaaj/lo.g.git"
+  },
+  "keywords": [
+    "logging",
+    "log"
+  ],
+  "author": "Jan Jorissen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qaaj/lo.g/issues"
+  },
+  "homepage": "https://github.com/qaaj/lo.g",
+  "dependencies": {
+    "webpack": "^1.12.1"
+  }
+}
